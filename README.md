@@ -61,9 +61,6 @@ dashboard/ # Streamlit app with pages, utils, and assets
    - MLP: `19_multimodal_volatility_prediction_mlp.ipynb`
    - LSTM: `20_multimodal_volatility_prediction_lstm.ipynb`
 
-7. **Helper Notebook**
-   - `help.ipynb` (guidance and utility functions)
-
 ---
 
 ## 🔧 Models & Predictions
@@ -136,9 +133,9 @@ cd stock-volatility-multimodal/dashboard
 
 2. Install dependencies:
 
-´´´
+```
 pip install -r requirements.txt
-´´´
+```
 
 3. Launch the dashboard:
 
