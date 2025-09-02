@@ -20,12 +20,12 @@ This project aims to build an advanced system that:
 The project is organized as follows:
 
 ```
-notebooks/ # Jupyter notebooks for data processing, modeling, evaluation
-models/ # Trained models and scalers
-predictions/ # Model predictions and error/metric summaries
-data/raw/ # Raw market, tweets, and news datasets
-data/processed/ # Cleaned and feature-engineered datasets
-dashboard/ # Streamlit app with pages, utils, and assets
+notebooks/         # Jupyter notebooks for data processing, modeling, evaluation
+models/            # Trained models and scalers
+predictions/       # Model predictions and error/metric summaries
+data/raw/          # Raw market, tweets, and news datasets
+data/processed/    # Cleaned and feature-engineered datasets
+dashboard/         # Streamlit app with pages, utils, and assets
 ```
 
 
