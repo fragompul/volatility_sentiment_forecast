@@ -153,3 +153,9 @@ streamlit run app.py
 - Dashboard enables **real-time monitoring** of volatility, sentiment, and alerts for investment decisions.
 
 ---
+
+## 📌 Author
+- Francisco Javier Gómez Pulido
+- frangomezpulido2002@gmail.com
+- www.linkedin.com/in/frangomezpulido
+- github/fragompul
